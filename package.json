@@ -1,0 +1,38 @@
+{
+  "name": "incremental-config",
+  "version": "1.0.0",
+  "description": "Incremental configuration reader for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/eslint/bin/eslint.js ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denrox/incremental-config.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "configuration",
+    "file",
+    "yml",
+    "json"
+  ],
+  "author": "Denis Bashkatov",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Denrox/incremental-config/issues"
+  },
+  "homepage": "https://github.com/Denrox/incremental-config#readme",
+  "dependencies": {
+    "yamljs": "0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "4.12.1",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-node": "5.2.1",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-standard": "3.0.1"
+  }
+}
