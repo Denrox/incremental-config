@@ -1,6 +1,6 @@
 {
   "name": "incremental-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Incremental configuration reader for nodejs",
   "main": "index.js",
   "scripts": {
