@@ -19,7 +19,7 @@
     "json"
   ],
   "author": "Denis Bashkatov",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Denrox/incremental-config/issues"
   },
