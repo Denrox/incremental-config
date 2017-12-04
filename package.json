@@ -2,7 +2,7 @@
   "name": "incremental-config",
   "version": "1.0.1",
   "description": "Incremental configuration reader for nodejs",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "lint": "./node_modules/eslint/bin/eslint.js ./"
   },
